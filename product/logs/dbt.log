@@ -1,0 +1,27 @@
+
+
+============================== 2022-05-23 16:20:28.995008 | 4d5db75b-9824-4fb0-ad65-a993e69466d8 ==============================
+16:20:28.995017 [info ] [MainThread]: Running with dbt=1.1.0
+16:20:28.995339 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/Users/sponram/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+16:20:28.995508 [debug] [MainThread]: Tracking: tracking
+16:20:29.015224 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x109135dc0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1091357c0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x109135100>]}
+16:20:39.056063 [debug] [MainThread]: Starter project path: /usr/local/Cellar/dbt-redshift/1.1.0/libexec/lib/python3.9/site-packages/dbt/include/starter_project
+16:20:39.071200 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x109134970>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x109134be0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x109134f40>]}
+
+
+============================== 2022-05-23 16:24:45.517603 | 1d73baa2-7cf7-4d22-b974-3970556ed906 ==============================
+16:24:45.517612 [info ] [MainThread]: Running with dbt=1.1.0
+16:24:45.517933 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/Users/sponram/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+16:24:45.518082 [debug] [MainThread]: Tracking: tracking
+16:24:45.534227 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1131cae80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1131cad60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1131f72e0>]}
+16:24:59.872654 [info ] [MainThread]: A project called anypoint_data_mart already exists here.
+16:24:59.873096 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1131f7cd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1131f7670>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1131f7940>]}
+
+
+============================== 2022-05-23 16:25:21.212368 | 860d60d6-599d-472d-99e8-117c7392eda2 ==============================
+16:25:21.212378 [info ] [MainThread]: Running with dbt=1.1.0
+16:25:21.212724 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': '/Users/sponram/.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+16:25:21.212877 [debug] [MainThread]: Tracking: tracking
+16:25:21.231209 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1061b0ee0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1061b0e50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1061dc3d0>]}
+16:25:27.231507 [debug] [MainThread]: Starter project path: /usr/local/Cellar/dbt-redshift/1.1.0/libexec/lib/python3.9/site-packages/dbt/include/starter_project
+16:25:41.444573 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106157490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1061576a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106157640>]}
